@@ -1,4 +1,12 @@
-# Hi, I'm Gideon
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="80" alt="Linux" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/WM-Hyprland-00C7B7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Editor-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=I+build+web+apps,+mobile+apps,+and+embedded+systems;Web+%7C+Android+%7C+IoT+%7C+Cybersecurity;Linux+%7C+Open+Source+%7C+Neovim;Build.+Break.+Learn.+Repeat." />
@@ -9,30 +17,15 @@
 </p>
 
 ---
-
-## About Me
+## About
 
 I’m Gideon, a software engineer with a strong interest in full-stack development, Android apps, IoT, embedded systems, and cybersecurity.
-
+  
 - I build websites, backend systems, Android apps, and embedded projects
 - I enjoy working on practical systems that solve real problems
 - I use Linux daily and like keeping my workflow lean and efficient
 - I’m interested in cybersecurity, system-level programming, and automation
 - I’m also exploring AI tools and real-world integrations
-
----
-
-## My Setup
-
-<p align="center">
-  <img src="https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/WM-Hyprland-00C7B7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Editor-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="80" alt="Linux" />
-</p>
 
 ---
 
@@ -133,18 +126,9 @@ I actively learn and practice ethical security skills.
 
 ---
 
-## Motto
-
-```bash
-whoami
-gideon
-
-echo "Build. Break. Learn. Repeat."
-````
-
----
-
-## Connect
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Hack+the+system.+Secure+the+world.;Build+it+clean.+Build+it+fast." />
+</p>
 
 <p align="center">
   <a href="https://github.com/Yebei-Gideon">
