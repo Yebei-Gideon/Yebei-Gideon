@@ -42,45 +42,63 @@ I actively learn and practice ethical security skills.
 
 ## Tech Stack
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,kotlin,c,cpp,bash,html,css,sql" />
-</p>
+<table>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=js,ts,python,java,kotlin,c,cpp,bash,html,css,sql" />
+    </td>
+  </tr>
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vue,nuxt,vite,tailwind" />
-</p>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,vue,nuxt,vite,tailwind" />
+    </td>
+  </tr>
 
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,spring,express,fastapi" />
-</p>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi" />
+    </td>
+  </tr>
 
-### Mobile
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin" />
-</p>
+  <tr>
+    <td><strong>Mobile</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin" />
+    </td>
+  </tr>
 
-### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" />
-</p>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" />
+    </td>
+  </tr>
 
-### DevOps / Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,vscode,postman" />
-</p>
+  <tr>
+    <td><strong>DevOps & Tools</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=linux,docker,git,github,postman,vscode" />
+    </td>
+  </tr>
 
-### Embedded / IoT
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,esp32" />
-</p>
+  <tr>
+    <td><strong>Embedded / IoT</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,esp32" />
+    </td>
+  </tr>
 
-### Cybersecurity
-<p>
-  <img src="https://skillicons.dev/icons?i=burp" />
-</p>
+  <tr>
+    <td><strong>Cybersecurity</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=burp" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -130,17 +148,25 @@ I actively learn and practice ethical security skills.
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Hack+the+system.+Secure+the+world.;Build+it+clean.+Build+it+fast." />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Yebei-Gideon">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/gideon-yebei">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/0x00GK">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Yebei-Gideon">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/gideon-yebei">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://x.com/0x00GK">
+        <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
