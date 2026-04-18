@@ -12,11 +12,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=I+build+web+apps,+mobile+apps,+and+embedded+systems;Web+%7C+Android+%7C+IoT+%7C+Cybersecurity;Linux+%7C+Open+Source+%7C+Neovim;Build.+Break.+Learn.+Repeat." />
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-6cdd7b45-2e2c-4a9c-b9b9-2d8e4b3a3c58.gif" width="500" />
-</p>
-
 ---
+
 ## About
 
 I’m Gideon, a software engineer with a strong interest in full-stack development, Android apps, IoT, embedded systems, and cybersecurity.
@@ -93,11 +90,15 @@ I actively learn and practice ethical security skills.
   </tr>
 
   <tr>
-    <td><strong>Cybersecurity</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=burp" />
-    </td>
-  </tr>
+  <td><strong>Cybersecurity</strong></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=linux,bash,python" />
+    <br/>
+    <img src="https://cdn.simpleicons.org/burpsuite/ff6600" height="40" />
+    <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="40" />
+    <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="40" />
+  </td>
+ </tr>
 </table>
 
 ---
