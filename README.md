@@ -162,7 +162,7 @@ I actively learn and practice ethical security skills.
       </a>
     </td>
     <td align="center">
-      <a href="https://x.com/0x00GK">
+      <a href="https://x.com/0x00_GK">
         <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
       </a>
     </td>
