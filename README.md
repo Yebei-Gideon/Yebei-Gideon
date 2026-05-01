@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="80" alt="Linux" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="80" alt="Linux" />  
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ---
 
-## About
+## [About - Portfolio Website](https://yebei-gideon.github.io)
 
 I’m Gideon, a software engineer with a strong interest in full-stack development, Android apps, IoT, embedded systems, and cybersecurity.
   
